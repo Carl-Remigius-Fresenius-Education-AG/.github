@@ -6,8 +6,6 @@ Welcome to the official GitHub profile of Carl-Remigius-Fresenius-Education GmbH
 
 The Carl Remigius Fresenius Education Group is one of the largest private and independent education companies in Germany. The group includes 18 brands from the areas of (vocational) technical schools, universities and further education at home and abroad.
 
-## Our Goals
-
 **Education by people for people**
 
 As an education provider, the Carl Remigius Fresenius Education Group is aware of its social responsibility. Regular audits by independent institutes as well as our own high standards of care and integrity are essential quality anchors. In addition, the education group continues to develop its portfolio systematically and proactively, aligned with constantly changing market requirements, customer needs and technological possibilities.
@@ -15,6 +13,12 @@ As an education provider, the Carl Remigius Fresenius Education Group is aware o
 **Education is teamwork**
 
 Around 2,500 employees from teaching, science and administration work together to ensure the educational success of tens of thousands of pupils, students and training participants. They form the basis of the success story that began in 1848 and whose continuity is still reflected in the shareholder structure today: The main shareholder of Carl Remigius Fresenius Education AG is Ludwig Fresenius, great-great-grandson of Carl Remigius Fresenius (1818-1897).
+
+## Our Mission/Vision
+
+In the spirit of Carl Remigius Fresenius, we lay the foundation for lifelong learning with a wide range of educational offerings, modern didactics, individual support and a high level of commitment. Because personal development can reshape the world.
+
+Through education, we inspire and shape people throughout their lives. As a leading international education group, we prepare people for the opportunities and challenges of the future. We impart qualifications and skills for individual success and social progress.
 
 ## Contribution Guidelines
 
