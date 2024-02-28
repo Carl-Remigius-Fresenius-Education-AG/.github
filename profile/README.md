@@ -1,9 +1,8 @@
 # Carl-Remigius-Fresenius-Education GmbH
 
-![Header_News_Leitfaden](https://github.com/Carl-Remigius-Fresenius-Education-AG/.github/assets/54494933/0700ee69-5ec5-450b-90ec-7f447860a680)
-
-
 Welcome to the official GitHub profile of Carl-Remigius-Fresenius-Education GmbH (CRFE GmbH)! 🚀
+
+![Header_News_Leitfaden](https://github.com/Carl-Remigius-Fresenius-Education-AG/.github/assets/54494933/0700ee69-5ec5-450b-90ec-7f447860a680)
 
 ## About Us
 
