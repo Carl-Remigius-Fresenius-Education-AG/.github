@@ -1,5 +1,8 @@
 # Carl-Remigius-Fresenius-Education GmbH
 
+![Header_News_Leitfaden](https://github.com/Carl-Remigius-Fresenius-Education-AG/.github/assets/54494933/0700ee69-5ec5-450b-90ec-7f447860a680)
+
+
 Welcome to the official GitHub profile of Carl-Remigius-Fresenius-Education GmbH (CRFE GmbH)! 🚀
 
 ## About Us
@@ -15,6 +18,8 @@ As an education provider, the Carl Remigius Fresenius Education Group is aware o
 Around 2,500 employees from teaching, science and administration work together to ensure the educational success of tens of thousands of pupils, students and training participants. They form the basis of the success story that began in 1848 and whose continuity is still reflected in the shareholder structure today: The main shareholder of Carl Remigius Fresenius Education AG is Ludwig Fresenius, great-great-grandson of Carl Remigius Fresenius (1818-1897).
 
 ## Our Mission/Vision
+
+![Header_Weiterbildung](https://github.com/Carl-Remigius-Fresenius-Education-AG/.github/assets/54494933/d4553f56-62a6-434c-af3b-ad9c5a58ffb3)
 
 In the spirit of Carl Remigius Fresenius, we lay the foundation for lifelong learning with a wide range of educational offerings, modern didactics, individual support and a high level of commitment. Because personal development can reshape the world.
 
